@@ -2,5 +2,5 @@
 Projects completed during my data mining and analytics class.
 | Project name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
-| [Predicting Heart Attacks](HeartAttackPrediction) | Utilizing different metrics to determine the likelihood that a customer defaults on a loan. | *pandas*, *nltk* |
-| [Titanic Survival Prediction](Titanic) | Utilizing different metrics to determine the likelihood that a customer defaults on a loan. | *pandas*, *nltk* |
+| [Predicting Heart Attacks](HeartAttackPrediction) | Utilizing different metrics and a logistic regression and random forests model to determine whether an individual got a heart attack or not. | *pandas*, *numpy*, *matplotlib*, *sklearn*|
+| [Titanic Survival Prediction](Titanic) | Utilizing different metrics and a MLP Classifier to determine the survival status of an individual on the Titanic disaster. | *pandas*, *numpy*, *matplotlib*, *sklearn*|
